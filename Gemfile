@@ -1,2 +1,2 @@
 # Gemfile
-gem 'rubocop', '~> 1.57.2'
+gem 'rubocop', '>= 1.0', '< 2.0'
